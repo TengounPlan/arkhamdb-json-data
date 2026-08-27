@@ -216,7 +216,7 @@
         "flavor": "En poursuivant à travers ces couloirs, vous tombez sur de la mousse, de la moisissure et du lierre rampant le long des murs et du sol.",
         "name": "Couloirs Labyrinthiques",
         "subname": "Chemin Luxuriant",
-        "text": "[action] [action] : vous découvrez un miroir couvert de végétations et y contemplez un étrange reflet. À la fin du round, choisissez un autre investigateur dans n'importe quel groupe. Cet investigateur a le droit d'effectuer 2 actions supplémentaires lors de son prochain tour. (Limite collective d'une fois par partie.)"
+        "text": "[action][action] : vous découvrez un miroir couvert de végétations et y contemplez un étrange reflet. À la fin du round, choisissez un autre investigateur dans n'importe quel groupe. Cet investigateur a le droit d'effectuer 2 actions supplémentaires lors de son prochain tour. (Limite collective d'une fois par partie.)"
     },
     {
         "back_flavor": "Cet endroit est une véritable ménagerie. Certaines créatures sont normales, d'autres répugnantes et difformes. Un monstre se rue contre le verre de sa cage sitôt qu'il vous voit entrer.",
