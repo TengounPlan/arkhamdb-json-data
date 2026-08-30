@@ -280,7 +280,7 @@
     "flavor": "Sólo queda un sitio que no has investigado aún dentro de los túneles. El camino serpentea en un descenso continuo. Sientes una brisa y oyes el goteo del agua. Parece llegar a una especie de gran cámara. Sea lo que sea lo que hay ahí abajo, debe de ser la fuente de toda esta sangre contaminada.",
     "back_name": "Pesadilla abatida",
     "back_text": "<b>(→R3)</b>",
-    "back_flavor": "La bestia se abalanza contra ti, con sus fauces de innumerables colmillos sangrientos abierta de par en par para devorarte de un bocado. Un instante antes de que se produzca el fatal desenlace, asestas el golpe de gracia y haces que el enorme monstruo retroceda tambaleante. Con un contrito gañido, la criatura se desploma en el suelo de la caverna, sangrando por numerosas heridas. Te la quedas mirando el tiempo suficiente como para asegurarte de que no volverá a levantarse y luego te recompones y empiezas a dirigirte hacia la salida. Quieres poner tierra de por medio entre este lugar y tú."
+    "back_flavor": "La bestia se abalanza contra ti, con sus fauces de innumerables colmillos sangrientos abiertas de par en par para devorarte de un bocado. Un instante antes de que se produzca el fatal desenlace, asestas el golpe de gracia y haces que el enorme monstruo retroceda tambaleante. Con un contrito gañido, la criatura se desploma en el suelo de la caverna, sangrando por numerosas heridas. Te la quedas mirando el tiempo suficiente como para asegurarte de que no volverá a levantarse y luego te recompones y empiezas a dirigirte hacia la salida. Quieres poner tierra de por medio entre este lugar y tú."
   },
   {
     "code": "13039",
@@ -420,7 +420,7 @@
     "code": "13055",
     "name": "Laboratorio oculto",
     "subname": "Profundidades más oscuras",
-    "text": "[action] Añade 1 ficha [blood] a la bolsa de caos. Descubres los viles experimentos que se realizan con la sangre de un terrible monstruo. Coloca 1 pista <i>(de la reserva de fichas)</i> en el acto en curso. Límite de grupo de una vez por partida.",
+    "text": "[action] Añade 1 ficha [blood] a la bolsa de caos: Descubres los viles experimentos que se realizan con la sangre de un terrible monstruo. Coloca 1 pista <i>(de la reserva de fichas)</i> en el acto en curso. Límite de grupo de una vez por partida.",
     "back_name": "Cámara lateral",
     "back_subname": "Profundidades más oscuras",
     "back_flavor": "Parece que a tu luz le cuesta iluminar los túneles, como si la propia oscuridad se negara a ceder ante tu presencia.",
